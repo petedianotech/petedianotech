@@ -2,13 +2,14 @@
 
 # 👋 Hi, I'm Peter Damiano
 
-### Full-Stack Developer & Innovator | Founder @ Petediano Technologies
+### Software Developer • Electronics Innovator • Creator  
+**Known online as Petediano**
 
-**Building the future of social for creators — especially in Africa.**
+Building fast websites, native mobile apps, smart hardware systems, and creator tools — from **Mulanje, Malawi** 🇲🇼
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-peterdamiano.vercel.app-blue?style=for-the-badge&logo=vercel)](https://peterdamiano.vercel.app)
-[![Hireable](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge)](https://github.com/petedianotech)
-[![GitHub](https://img.shields.io/badge/GitHub-petedianotech-181717?style=for-the-badge&logo=github)](https://github.com/petedianotech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-peterdamiano.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://peterdamiano.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+265%2098%20706%206051-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265987066051)
+[![Open to Work](https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge)](https://peterdamiano.vercel.app)
 
 </div>
 
@@ -16,51 +17,70 @@
 
 ### 🚀 About Me
 
-I'm a full-stack developer and product builder focused on creating real, useful software.  
-My main project is **[Scrolfed](https://github.com/petedianotech/Scrolfed)** — a modern social platform designed for creators, with strong focus on performance, offline support, and the Malawian/African creator economy.
+I'm **Peter Damiano** (Petediano), a full-stack developer and hardware innovator based in Mulanje, Malawi.  
+I build practical software and electronics that solve real problems — from community safety systems to education tools and modern social platforms.
 
-I ship both:
-- **Web products** (TypeScript, React, Firebase, modern fullstack)
-- **Native Android apps** (Kotlin + Jetpack Compose)
+My biggest ongoing project is **Scrolfed**, a full social media platform built for creators (with strong focus on performance, offline support, and the African creator economy).
 
-I care about clean architecture, speed, reliability, and building things people actually use.
+I also design and ship:
+- Fast websites & full-stack web apps
+- Native Android apps (Kotlin + Jetpack Compose)
+- Smart IoT / electronics systems (sensors, SMS alerts, sirens, LEDs)
+- AI-assisted tools and content systems
 
----
-
-### 🔥 Currently Working On
-
-- **Scrolfed** — Full social media platform (feed, communities, chat, media, admin, offline sync)
-- **Scrolfed Admin** — Staff moderation & operations console
-- Continuous improvement of Android tools (music players, keyboards, productivity apps)
-- AI-powered developer tools & content systems
+Everything is handcrafted with clean code, attention to detail, and a focus on reliability.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔥 Currently Building
 
-**Frontend & Web**  
-`TypeScript` `React` `Next.js` `Vite` `Tailwind CSS` `Firebase` `Cloudflare`
+- **Scrolfed** + **Scrolfed Admin** — Complete social platform (feed, communities, chat, media, moderation, offline sync)
+- Continuous Android tools (music players, keyboards, planners)
+- AI-powered utilities and creator tools
+- Hardware + software integrations for real-world impact in Malawi
+
+---
+
+### 🛠️ Tech Stack
+
+**Web**  
+`TypeScript` `React` `Next.js` `Vite` `Tailwind` `Firebase` `Node.js` `Vercel`
 
 **Mobile**  
-`Kotlin` `Jetpack Compose` `Material 3` `Android`
+`Kotlin` `Jetpack Compose` `Material 3` `Android` `C++` `Flutter`
 
-**Backend & Infrastructure**  
-`Node.js` `Express` `Firestore` `Cloud Functions` `Vercel` `Docker`
+**Backend & Cloud**  
+`Firestore` `Cloud Functions` `Express` `REST APIs` `Cloudflare`
 
-**Other**  
-`Git` `GitHub Actions` `Figma` `Buffer` `AI tooling`
+**Hardware & IoT**  
+Water sensors • SMS triggers • Sirens • LED circuits • Battery-powered systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,firebase,kotlin,androidstudio,tailwind,vite,vercel,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,firebase,kotlin,androidstudio,tailwind,vite,vercel,docker,git,github,python" />
 </p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Type |
+|---------|-------------|------|
+| **[Scrolfed](https://github.com/petedianotech/Scrolfed)** | Full social media platform for creators (main focus) | TypeScript / React / Firebase |
+| **[Automatic Flood Alert](https://github.com/petedianotech/autofloodalert)** | 4-way early warning system (SMS + App + Siren + LEDs) | Hardware + Web + Mobile |
+| **[EducateMW](https://github.com/petedianotech/educate-mw)** | Free past exam papers & study guides for Malawian students | Web |
+| **[SoundBox](https://github.com/petedianotech/soundbox)** | Fast offline Android music player (Kotlin + C++) | Android |
+| **[OINONE](https://github.com/petedianotech/oinone)** | Online business & tech guide / blog | Web |
+| **[Paiboard](https://github.com/petedianotech/Paiboard)** | Privacy-first custom Android keyboard | Kotlin |
+
+→ See more on my [Portfolio](https://peterdamiano.vercel.app)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petedianotech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petedianotech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=petedianotech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petedianotech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <p align="center">
@@ -69,40 +89,31 @@ I care about clean architecture, speed, reliability, and building things people 
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Scrolfed](https://github.com/petedianotech/Scrolfed)** | Social platform for creators (main focus) | TypeScript, React, Firebase |
-| **[soundbox](https://github.com/petedianotech/soundbox)** | Offline-first Android music player | Kotlin |
-| **[educate-mw](https://github.com/petedianotech/educate-mw)** | Education app for Malawi secondary schools | TypeScript |
-| **[autofloodalert](https://github.com/petedianotech/autofloodalert)** | Automatic Flood Alert System | TypeScript |
-| **[PeterDamiano-](https://github.com/petedianotech/PeterDamiano-)** | Personal portfolio | TypeScript |
-| **[Paiboard](https://github.com/petedianotech/Paiboard)** | Privacy-first Android keyboard | Kotlin |
-
----
-
-### 📈 Activity
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petedianotech&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petedianotech&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Work Together
 
-- 🌐 Portfolio → [peterdamiano.vercel.app](https://peterdamiano.vercel.app)
-- 💼 Open to collaboration, freelance, and interesting opportunities
-- 📍 Building from Malawi 🇲🇼 with global ambition
+I'm available for new projects and collaborations.
+
+- 🌐 **Portfolio** → [peterdamiano.vercel.app](https://peterdamiano.vercel.app)
+- 💬 **WhatsApp** → [+265 98 706 6051](https://wa.me/265987066051)
+- 📍 Based in Mulanje, Malawi — building for local impact and global reach
+
+Clear communication • Fast delivery • Clean code you fully own
 
 ---
 
 <div align="center">
 
-**Thanks for visiting!**  
-⭐ Star my projects if you find them useful.
+**Thanks for stopping by!**  
+Feel free to star projects you find useful ⭐
 
-<img src="https://komarev.com/ghpvc/?username=petedianotech&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=petedianotech&style=flat-square&color=0A66C2" alt="Profile views" />
 
 </div>
